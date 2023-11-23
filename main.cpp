@@ -1,5 +1,5 @@
-/* mbed Microcontroller Library
- * Copyright (c) 2019 ARM Limited
+/* PoseMate Microcontroller Source Code
+ * Copyright (c) 2023 LeonidasEng
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -7,9 +7,6 @@
 #include "BufferedSerial.h"
 #include "MPU6050.h"
 
-
-//I2C i2c(PB_7, PB_6);
-//Timer t;
 MPU6050 mpu6050(0x68, AFS_2G, GFS_250DPS, PB_7, PB_6);
 BufferedSerial pc(USBTX, USBRX);
 
