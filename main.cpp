@@ -9,17 +9,22 @@
 
 MPU6050 mpu6050(0x68, AFS_2G, GFS_250DPS, PB_7, PB_6);
 BufferedSerial pc(USBTX, USBRX);
-
+Timer t;
 
 
 int main()
 {
+
+    t.start(); // Start Timer for output
+
     // Setup
     pc.set_baud(115200);
+    char buffer[128]; // Buffer for formatted strings
 
+    // Read the WHO_AM_I register
     uint8_t whoami = mpu6050.getWhoAmI();
-    printf("I am 0x%x\n\r", whoami);
-    printf("I should be 0x68\n\r");
+    snprintf(buffer, sizeof(buffer), "I am 0x%x\n\rI should be 0x68\n\r", whoami);
+    printf("%s", buffer);
 
     if (!mpu6050.init()) {
         printf("MPU6050 initialisation failed\n\r");
@@ -53,7 +58,7 @@ int main()
     {
         if (mpu6050.dataReady()) {
             mpu6050.accel(); // Read 2g acceleration data
-            mpu6050.gyro(); // Read 250d gyroscope data
+            mpu6050.gyro(); // Read 250° gyroscope data
 
             // Displaying sensor values
             float ax = mpu6050.accelData[0];
@@ -67,10 +72,18 @@ int main()
             // Read temperature
             float temperature = mpu6050.temp();
 
-            // Print values to serial console
-            printf("Accel: (X: %f, Y: %f, Z: %f) G", ax, ay, az);
-            printf("| Gyro: (A: %f, B: %f, C: %f) °/s\n\r", gx, gy, gz);
-            printf("Temperature: %f°C\n\r", temperature);
+            // Calculate Roll and Pitch
+            float roll = atan2(ay, sqrt(ax * ax + az * az)) * 180 / M_PI;
+            float pitch = atan2(-ax, sqrt(ay * ay + az * az)) * 180 / M_PI;
+
+            auto elapsed_time = t.elapsed_time();
+
+            // Print values to serial console - Now includes Time
+            snprintf(buffer, sizeof(buffer), 
+                 "[%02d:%02d:%02d,%03d] Accel: (X: %.2f, Y: %.2f, Z: %.2f) G | Gyro: (A: %.2f, B: %.2f, C: %.2f) °/s | Temperature: %.2f°C\n\r", 
+                int (elapsed_time / 1h), int(elapsed_time % 1h / 1min), int(elapsed_time % 1min / 1s), int(elapsed_time % 1s / 1ms),
+                ax, ay, az, gx, gy, gz, temperature);
+            printf("%s", buffer);
 
             ThisThread::sleep_for(100ms); // Delay to read data
         }
