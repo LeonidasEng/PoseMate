@@ -7,9 +7,11 @@
 #include "BufferedSerial.h"
 #include "MPU6050.h"
 
+
 MPU6050 mpu6050(0x68, AFS_2G, GFS_250DPS, PB_7, PB_6);
 BufferedSerial pc(USBTX, USBRX);
 Timer t;
+
 
 
 int main()
@@ -73,16 +75,24 @@ int main()
             float temperature = mpu6050.temp();
 
             // Calculate Roll and Pitch
-            float roll = atan2(ay, sqrt(ax * ax + az * az)) * 180 / M_PI;
-            float pitch = atan2(-ax, sqrt(ay * ay + az * az)) * 180 / M_PI;
+            float pitch = atan2(ay, sqrt(ax * ax + az * az)) * 180 / M_PI;
+            float roll = atan2(-ax, sqrt(ay * ay + az * az)) * 180 / M_PI;
 
             auto elapsed_time = t.elapsed_time();
 
             // Print values to serial console - Now includes Time
             snprintf(buffer, sizeof(buffer), 
-                 "[%02d:%02d:%02d,%03d] Accel: (X: %.2f, Y: %.2f, Z: %.2f) G | Gyro: (A: %.2f, B: %.2f, C: %.2f) °/s | Temperature: %.2f°C\n\r", 
-                int (elapsed_time / 1h), int(elapsed_time % 1h / 1min), int(elapsed_time % 1min / 1s), int(elapsed_time % 1s / 1ms),
-                ax, ay, az, gx, gy, gz, temperature);
+                 
+                 // Seperated by comma for CSV and C# visualiser
+                "%02d:%02d:%02d:%03d, %.2f, %.2f, %.2f\n\r",
+                int (elapsed_time / 1h), int((elapsed_time % 1h) / 1min), int((elapsed_time % 1min) / 1s), int((elapsed_time % 1s) / 1ms),
+                pitch, roll, temperature);
+                
+                // Raw values:
+                //"[%02d:%02d:%02d,%03d] Accel: (X: %.2f, Y: %.2f, Z: %.2f) G | Gyro: (A: %.2f, B: %.2f, C: %.2f) °/s | Temperature: %.2f°C\n\r", 
+                //int (elapsed_time / 1h), int(elapsed_time % 1h / 1min), int(elapsed_time % 1min / 1s), int(elapsed_time % 1s / 1ms),
+                //ax, ay, az, gx, gy, gz, temperature);
+
             printf("%s", buffer);
 
             ThisThread::sleep_for(100ms); // Delay to read data
