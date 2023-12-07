@@ -74,7 +74,7 @@ int main()
             // Read temperature
             float temperature = mpu6050.temp();
 
-            // Calculate Roll and Pitch
+            // Calculate Roll and Pitch - Found issue with Euler equation we now have Gimbal lock!
             float pitch = atan2(ay, sqrt(ax * ax + az * az)) * 180 / M_PI;
             float roll = atan2(-ax, sqrt(ay * ay + az * az)) * 180 / M_PI;
 
