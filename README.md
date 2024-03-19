@@ -24,9 +24,9 @@
   </p>
 </div>
 
-<!--
+
 <img src="images/action-shots.png" alt="PoseMate">
--->
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
