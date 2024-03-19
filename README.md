@@ -25,7 +25,7 @@
 </div>
 
 <!--
-<img src="images/Exo_Games_Event.png" alt="Exo Games 2023">
+<img src="images/action-shots.png" alt="PoseMate">
 -->
 
 <!-- TABLE OF CONTENTS -->
@@ -170,7 +170,7 @@ This source code is licensed under the Apache2.0-style license found in: [LICENS
 
 ## Team Member roles
 Leo Hayes - Project Manager & Developer - leo.m.hayes@hotmail.co.uk
-
+Adam Dineen - CAD Designer & Engineer
 
 
 
