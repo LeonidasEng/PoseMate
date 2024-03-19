@@ -1,0 +1,1 @@
+C:\Users\leomh\source\repos\IMU-Visualiser\SimpleDemo\obj\Debug\net6.0-windows\IMU-Visualiser.csproj.AssemblyReference.cache

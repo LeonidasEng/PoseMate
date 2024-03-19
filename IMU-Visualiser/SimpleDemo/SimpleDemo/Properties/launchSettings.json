@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IMU Visualiser": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\leomh\\source\\repos\\SimpleDemo\\SimpleDemo\\bin\\Debug\\net6.0-windows\\SimpleDemo.exe"
+    }
+  }
+}
