@@ -73,9 +73,9 @@ It provides you with real-time feedback as you exercise or pose, helping you und
 Say goodbye to uncertainty and hello to your best physique with PoseMate.
 
 ### PoseMate's functionality includes:
- *  Audible feedback to improve bicep engagement, bicep curl form and double bicep pose form.  
- *  Modes for different  
-
+ *  Audible feedback to improve bicep engagement, bicep curl form and double bicep pose form. 
+ *  Measure arm circumference 
+ *  Modes for different exercises
 
 
  (Currently, PoseMate is designed exclusively for bicep curls and poses, but future versions could include enhancements to support a broader range of exercises.)
@@ -93,8 +93,8 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 * Xamarin - PoseMate App
 
 ### Custom Applications - With READMEs
-<a href="https://github.com/LeonidasEng/PoseMate/tree/main/IMU-Visualiser/SimpleDemo">View IMU Visualiser</a>
-<a href="https://github.com/LeonidasEng/PoseMate/tree/main/PoseMate_App/PoseMate_App">View PoseMate App</a>
+<a href="https://github.com/LeonidasEng/PoseMate/tree/main/IMU-Visualiser/SimpleDemo">View IMU Visualiser - Development Tool</a>
+<a href="https://github.com/LeonidasEng/PoseMate/tree/main/PoseMate_App/PoseMate_App">View PoseMate App - Commercial Prototype</a>
 
 
 </details>
