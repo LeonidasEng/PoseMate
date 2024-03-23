@@ -9,11 +9,7 @@
 <div align="center">
     <img src="images/logo.png" alt="Logo">
   <br />
-  <h3 align="center">
-  <img src="images/complete-system.png" alt="Complete-System">
-  </h3>
-
-
+  
   <p align="center">
     PoseMate - Bodybuilding Monitoring and Dynamic Feedback Device
     <br />
@@ -62,7 +58,9 @@
 ## About PoseMate
 <details>
 <summary>Click to expand/collapse</summary>
-
+<h3 align="center">
+  <img src="images/complete-system.png" alt="Complete-System">
+  </h3>
 
 
 ### Built With
