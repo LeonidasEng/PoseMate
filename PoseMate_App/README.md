@@ -11,6 +11,6 @@ This app was made by Aaron Rodrigo.
 The below terminal was used as a placeholder for the app. With a setup similar to the IMU Visualiser it should be possible to convert PoseMate's output stream into individual elements that can be updated on the PoseMate app.
 <br />
 <div align="center">
-    <img src="serial-bluetooth.png">
+    <img src="app_images/serial-bluetooth.png">
 </div>
 
