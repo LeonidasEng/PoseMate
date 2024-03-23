@@ -11,7 +11,7 @@
   <br />
   
   <p align="center">
-    PoseMate - Bodybuilding Monitoring and Dynamic Feedback Device
+    Bodybuilding Monitoring and Dynamic Feedback Device
     <br />
     <a href="https://github.com/LeonidasEng/PoseMate/issues">Report Bug</a>
     ·
@@ -61,6 +61,12 @@
 <h3 align="center">
   <img src="images/complete-system.png" alt="Complete-System">
   </h3>
+Introducing PoseMate, the revolutionary wearable fitness device made for bodybuilders. Preparing for a competition often means aiming for the perfect muscle pump and relying heavily on your coach's best guesses to peak at the right moment.
+But what if guessing wasn't part of the process? PoseMate changes the game.<br />
+Developed by a group of second-year Robotics and Electronic Engineering students, PoseMate stands out in a crowded market. Unlike other fitness trackers, it goes beyond just collecting your workout data.<br />
+It provides you with real-time feedback as you exercise or pose, helping you understand exactly what works for your body. PoseMate is about making sure you hit your peak with confidence, offering insights that guide you to your best look. <br />
+Say goodbye to uncertainty and hello to your best physique with PoseMate.<br />
+
 
 
 ### Built With
@@ -70,8 +76,13 @@
 * MPU6050
 * RS Pro 10k Potentiometer
 * SEN-11574
-* WPF Helix Toolkit
-* Xamarin
+* WPF Helix Toolkit - IMU Visualiser
+* Xamarin - PoseMate App
+
+### Custom Applications - With READMEs
+<a href="https://github.com/LeonidasEng/PoseMate/tree/main/IMU-Visualiser/SimpleDemo">View IMU Visualiser</a>
+<a href="https://github.com/LeonidasEng/PoseMate/tree/main/PoseMate_App/PoseMate_App">View PoseMate App</a>
+
 
 </details>
 
@@ -84,27 +95,42 @@
 <summary>Click to expand/collapse</summary>
 
 ### Sprint 1 Research
-<a href="https://wokwi.com/projects/365491902229667841">View IMU Visualiser</a>
-- [ ] Example
-- [x] Example done.
-
+- [x] Sprint 1 Hypothesis
+- [x] Sensor Research
+- [x] Competitor Analysis
+- [x] Card MVP
+- [x] Gym Risk Assessment
+- [x] Testing Framework
+- [x] Pivot or Persevere?
 
 ### Sprint 2 Sensor Implementation
-- [ ] Example
-- [x] Example done.
+- [x] Sprint 2 Hypothesis
+- [x] Pulse Sensor
+- [x] Potentiometer
+- [x] Inertial Measurement Unit
+- [x] Sensor Housing
+- [x] Sleeve Design
+- [x] Pivot or Persevere
 
 ### Sprint 3 MVP Manufacturing
-- [ ] Example
-- [x] Example done.
+- [x] Sprint 3 Hypothesis
+- [x] Wristwatch development
+- [x] Sleeve Design Development
+- [x] Custom Wiring
+- [x] Microcontroller Housing
 
 ### Sprint 4 Integration
-- [ ] Example
-- [x] Example done.
+- [x] Sprint 4 Hypothesis
+- [x] GUI Design
+- [x] Code Encapsulation
+- [x] Final Changes
+- [x] Testing
+- [x] Presentation
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Assignment Outcome
+## Assignment Outcome
 [TBC]
 
 ## Changelog
@@ -166,11 +192,11 @@ This source code is licensed under the Apache2.0-style license found in: [LICENS
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## Team Member roles
-Leo Hayes - Project Manager, Developer, CAD Designer - leo.m.hayes@hotmail.co.uk
-Adam Dineen - Arm Mechanism Design Engineer
-Aaron Rodrigo - GUI App Design Engineer
-Jacob Shepherd - CAD Design Engineer
-Mousab Jaly - Sensor Design Engineer
+* Leo Hayes - Project Manager, Developer, CAD Designer - leo.m.hayes@hotmail.co.uk
+* Adam Dineen - Arm Mechanism Design Engineer
+* Aaron Rodrigo - GUI App Design Engineer
+* Jacob Shepherd - CAD Design Engineer
+* Mousab Jaly - Sensor Design Engineer
 
 
 Project Link: [https://github.com/LeonidasEng/PoseMate](https://github.com/LeonidasEng/PoseMate)
