@@ -2,7 +2,7 @@
 <div align="center">
     <img src="app_images/app-main-menu.jpg">
   <br />
-    <img src="app_images/app-bicep-tracking.jpg>
+    <img src="app_images/app-bicep-tracking.jpg">
   <br />
 </div>
 This app was made by Aaron Rodrigo.
