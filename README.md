@@ -166,9 +166,11 @@ This source code is licensed under the Apache2.0-style license found in: [LICENS
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## Team Member roles
-Leo Hayes - Project Manager & Developer - leo.m.hayes@hotmail.co.uk
-Adam Dineen - CAD Designer & Engineer
-
+Leo Hayes - Project Manager, Developer, CAD Designer - leo.m.hayes@hotmail.co.uk
+Adam Dineen - Arm Mechanism Design Engineer
+Aaron Rodrigo - GUI App Design Engineer
+Jacob Shepherd - CAD Design Engineer
+Mousab Jaly - Sensor Design Engineer
 
 
 Project Link: [https://github.com/LeonidasEng/PoseMate](https://github.com/LeonidasEng/PoseMate)
