@@ -1,6 +1,6 @@
 # PoseMate IMU Visualiser
 <div align="center">
-    <img src="visualiser_images/imu-visualiser.jpg">
+    <img src="visualiser_images/imu-visualiser.png">
   <br />
 </div>
 
