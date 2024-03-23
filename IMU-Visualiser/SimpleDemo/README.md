@@ -6,6 +6,8 @@
 
 This application was designed to gather data from the PoseMate device and allow for data collection and analysis.
 
+Please open SimpleDemo, inside you will find the root directory for the IMU-Visualiser.
+
 The code for this system is divided into three main files:
 1. MainWindow.xaml - Here you will find the main markup file for all visual elements of the program.
 2. MainViewModel.cs - This file creates the 3D object for the IMU animation using WPF Helix Toolkit.
