@@ -38,7 +38,7 @@
         <li><a href="#custom-applications-with-readmes">Custom Applications - With READMEs</a>
       </ul>
     </li>
-    <li><a href="#posemate-roadmap">PoseMate - Roadmap</a></li>
+    <li><a href="#posemate-roadmap">PoseMate - Roadmap</a>
     	  <ul>
         <li><a href="#sprint-1-research">Sprint 1 Research</a></li>
         <li><a href="#sprint-2-sensor-implementation">Sprint 2 Sensor Implementation</a></li>
@@ -46,11 +46,12 @@
         <li><a href="#sprint-4-integration">Sprint 4 Integration</a></li>
       </ul>
 	  </li>
+    <li><a href="#assignment-outcome">Assignment Outcome</a></li>
     <li><a href="#changelog">Changelog</a></li>
     <li><a href="#contributing-internal">Contributing - Internal</a></li>
     <li><a href="#contributing-external">Contributing - External</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#team-member-roles">Team Member roles</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
