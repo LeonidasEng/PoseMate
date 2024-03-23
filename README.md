@@ -65,11 +65,20 @@ Introducing PoseMate, the revolutionary wearable fitness device made for bodybui
 But what if guessing wasn't part of the process? PoseMate changes the game.
 <br />
 <br />
-Developed by a group of second-year Robotics and Electronic Engineering students, PoseMate stands out in a crowded market. Unlike other fitness trackers, it goes beyond just collecting your workout data.<br />
+Developed by a group of second-year Robotics and Electronic Engineering students, PoseMate stands out in a crowded market. Unlike other fitness trackers, it goes beyond just collecting your workout data.
 <br />
 <br />
-It provides you with real-time feedback as you exercise or pose, helping you understand exactly what works for your body. PoseMate is about making sure you hit your peak with confidence, offering insights that guide you to your best look. <br />
+It provides you with real-time feedback as you exercise or pose, helping you understand exactly what works for your body. PoseMate is about making sure you hit your peak with confidence, offering insights that guide you to your best look. 
+<br />
 Say goodbye to uncertainty and hello to your best physique with PoseMate.
+
+### PoseMate's functionality includes:
+ *  Audible feedback to improve bicep engagement, bicep curl form and double bicep pose form.  
+ *  Modes for different  
+
+
+
+ (Currently, PoseMate is designed exclusively for bicep curls and poses, but future versions could include enhancements to support a broader range of exercises.)
 
 
 
