@@ -6,14 +6,13 @@
 -->
 
 <!-- PROJECT LOGO -->
-<!--
 <div align="center">
-    <img src="images/project-logo.png" alt="Logo">
+    <img src="images/logo.png" alt="Logo">
   <br />
   <h3 align="center">
-  <img src="images/team-logo.png" alt="Team-Logo">
+  <img src="images/complete-system.png" alt="Complete-System">
   </h3>
--->
+
 
   <p align="center">
     PoseMate - Bodybuilding Monitoring and Dynamic Feedback Device

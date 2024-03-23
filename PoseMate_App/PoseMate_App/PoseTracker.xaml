@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PoseMate_App.PoseTracker"
+             BackgroundColor="Black">
+
+    <StackLayout>
+        <Label Text="Bicep Tracking" TextColor="White" FontSize="Large" HorizontalOptions="CenterAndExpand" />
+
+        <!-- Labels for Pitch, Roll, and Pulse with small output windows -->
+        <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+            <Label Text="Pitch" TextColor="White" />
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="PitchLabel" Text="---" TextColor="White" FontSize="Large" />
+            </StackLayout>
+            
+            <Label Text="Roll" TextColor="White" />
+            <Label x:Name="RollLabel" Text="---" TextColor="White" FontSize="Large" />
+
+            <Label Text="Pulse" TextColor="White" />
+            <Label x:Name="PulseLabel" Text="---" TextColor="White" FontSize="Large" />
+
+        </StackLayout>
+
+        <!-- Partition line -->
+        <BoxView Color="White" HeightRequest="2" HorizontalOptions="FillAndExpand" Margin="0,20,0,20" />
+
+        <!-- Large output window for Pitch value -->
+        <Label Text="Pitch Value" TextColor="White" HorizontalOptions="CenterAndExpand" FontSize="Large" />
+        <Label x:Name="LargePitchLabel" Text="---" TextColor="White" FontSize="Large" HorizontalOptions="CenterAndExpand" />
+
+        <!-- Decently large output window for message based on criteria -->
+        <Label x:Name="MessageLabel" Text="---" TextColor="White" FontSize="Large" HorizontalOptions="CenterAndExpand" />
+        <Grid>
+            <Button Text="Update" Clicked="UpdateValuesButton_Clicked" HorizontalOptions="CenterAndExpand" VerticalOptions="End" />
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

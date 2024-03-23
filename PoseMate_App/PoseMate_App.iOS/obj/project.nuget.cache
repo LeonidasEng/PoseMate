@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jeWWNpNmmER0GLSuZALO+PwgUZ7eqTgeOzyfzD9tvcDyYCmu0shW4G7DEAnb4i+sc+0EQhXb+tu3vHM51W7q6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App.iOS\\PoseMate_App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\plugin.bluetoothclassic\\1.1.5\\plugin.bluetoothclassic.1.1.5.nupkg.sha512",
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Aaron Rodrigo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

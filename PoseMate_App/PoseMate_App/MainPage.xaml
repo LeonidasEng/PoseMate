@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PoseMate_App.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#000000" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to PoseMate !" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame >
+        <Label Text="Check out your Pose" HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10,30,10"/>
+            <Label Text="This application works with the PoseMate ARM Plate 1.0. Please make sure it has been securely attached to your arm." FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="A full documentation for donning the ARM Plate and this app's navigation can be found attached seprately."/>
+                        <Span Text="Please select one of the options below to continue."/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+            <Button Text="Pose Tracker" Clicked="PoseTracker_Clicked" />
+            <Button Text="More Stats" Clicked="MoreStats_Clicked" />
+            <Button Text="Graph" Clicked="Graph_Clicked" />
+    </StackLayout>
+     
+</ContentPage>

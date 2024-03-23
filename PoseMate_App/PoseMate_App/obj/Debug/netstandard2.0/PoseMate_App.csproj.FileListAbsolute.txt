@@ -1,0 +1,16 @@
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\bin\Debug\netstandard2.0\PoseMate_App.deps.json
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\bin\Debug\netstandard2.0\PoseMate_App.dll
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\bin\Debug\netstandard2.0\ref\PoseMate_App.dll
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\bin\Debug\netstandard2.0\PoseMate_App.pdb
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.csproj.AssemblyReference.cache
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.AssemblyInfoInputs.cache
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.AssemblyInfo.cs
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.dll
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\refint\PoseMate_App.dll
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseMate_App.pdb
+C:\Users\Aaron Rodrigo\source\repos\PoseMate_App\PoseMate_App\obj\Debug\netstandard2.0\PoseTracker.xaml.g.cs

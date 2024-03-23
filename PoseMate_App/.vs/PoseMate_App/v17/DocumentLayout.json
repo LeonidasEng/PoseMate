@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|c:\\users\\aaron rodrigo\\source\\repos\\posemate_app\\posemate_app\\posetracker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|solutionrelative:posemate_app\\posetracker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|c:\\users\\aaron rodrigo\\source\\repos\\posemate_app\\posemate_app\\posetracker.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|solutionrelative:posemate_app\\posetracker.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|c:\\users\\aaron rodrigo\\source\\repos\\posemate_app\\posemate_app\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|solutionrelative:posemate_app\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|c:\\users\\aaron rodrigo\\source\\repos\\posemate_app\\posemate_app\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|solutionrelative:posemate_app\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|c:\\users\\aaron rodrigo\\source\\repos\\posemate_app\\posemate_app\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1305D483-3798-4E9F-9250-1FAFB97DD4AE}|PoseMate_App\\PoseMate_App.csproj|solutionrelative:posemate_app\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PoseMate_App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\App.xaml.cs",
+              "RelativeToolTip": "PoseMate_App\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:38:40.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PoseMate_App\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\MainPage.xaml",
+              "RelativeToolTip": "PoseMate_App\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T14:39:20.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PoseMate_App\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\MainPage.xaml.cs",
+              "RelativeToolTip": "PoseMate_App\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:39:13.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoseTracker.xaml",
+              "DocumentMoniker": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\PoseTracker.xaml",
+              "RelativeDocumentMoniker": "PoseMate_App\\PoseTracker.xaml",
+              "ToolTip": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\PoseTracker.xaml",
+              "RelativeToolTip": "PoseMate_App\\PoseTracker.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T19:04:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoseTracker.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\PoseTracker.xaml.cs",
+              "RelativeDocumentMoniker": "PoseMate_App\\PoseTracker.xaml.cs",
+              "ToolTip": "C:\\Users\\Aaron Rodrigo\\source\\repos\\PoseMate_App\\PoseMate_App\\PoseTracker.xaml.cs",
+              "RelativeToolTip": "PoseMate_App\\PoseTracker.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:07:05.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
