@@ -27,12 +27,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-posemate">About PoseMate</a> 
+    <li><a href="#about-posemate">About PoseMate</a>
+      <ul>
+        <li><a href="#posemates-functionality-includes">PoseMate's functionality includes</a>
+      </ul>
       <ul>
         <li><a href="#built-with">Built With</a>
+      </ul>     
+      <ul>
+        <li><a href="#custom-applications-with-readmes">Custom Applications - With READMEs</a>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#posemate-roadmap">PoseMate - Roadmap</a></li>
     	  <ul>
         <li><a href="#sprint-1-research">Sprint 1 Research</a></li>
         <li><a href="#sprint-2-sensor-implementation">Sprint 2 Sensor Implementation</a></li>
