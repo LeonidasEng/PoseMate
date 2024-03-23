@@ -51,10 +51,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-
-
-
-<!-- About Project -->
 ## About PoseMate
 <details>
 <summary>Click to expand/collapse</summary>
@@ -76,7 +72,7 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
  *  Audible feedback to improve bicep engagement, bicep curl form and double bicep pose form. 
  *  Measure arm circumference 
  *  Modes for different exercises
-
+ *  Detachable microcontroller unit and wristwatch, with potential for future module expansion.
 
  (Currently, PoseMate is designed exclusively for bicep curls and poses, but future versions could include enhancements to support a broader range of exercises.)
 
@@ -86,6 +82,7 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 * C#/C++
 * ARM
 * Mbed Studio
+* Lean Startup Methodology
 * MPU6050
 * RS Pro 10k Potentiometer
 * SEN-11574
@@ -93,7 +90,7 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 * Xamarin - PoseMate App
 
 ### Custom Applications - With READMEs
-<a href="https://github.com/LeonidasEng/PoseMate/tree/main/IMU-Visualiser/SimpleDemo">View IMU Visualiser - Development Tool</a>
+<a href="https://github.com/LeonidasEng/PoseMate/tree/main/IMU-Visualiser/SimpleDemo">View IMU Visualiser - Development Tool</a><br />
 <a href="https://github.com/LeonidasEng/PoseMate/tree/main/PoseMate_App/PoseMate_App">View PoseMate App - Commercial Prototype</a>
 
 
@@ -147,9 +144,9 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 [TBC]
 
 ## Changelog
-You can find the changelog for this repo here: [Changelog](https://github.com/LeonidasEng/Exoskeleton/blob/main/CHANGELOG.md)
+You can find the changelog for this repo here: [Changelog](https://github.com/LeonidasEng/PoseMate/tree/main/CHANGELOG.md)
 
-See the [open issues](https://github.com/LeonidasEng/Exoskeleton/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/LeonidasEng/PoseMate/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +165,7 @@ See the [open issues](https://github.com/LeonidasEng/Exoskeleton/issues) for a f
 5. Navigate to the directory where you want to clone the repository.
 6. Run the following command for HTTPS:
     ```sh
-    git clone https://github.com/LeonidasEng/Exoskeleton.git
+    git clone https://github.com/LeonidasEng/PoseMate.git
     ```
 ### Accessing the Repo
 1. After cloning the repository, you can access its contents on your local machine.
@@ -220,7 +217,10 @@ Project Link: [https://github.com/LeonidasEng/PoseMate](https://github.com/Leoni
 ## Acknowledgments
 * [Kris Winer](https://github.com/kriswiner)
 * [Zoltan Hudak](https://os.mbed.com/users/hudakz/code/MPU6050/docs/tip/)
+* [Lean Startup Methodology](https://theleanstartup.com/#principles)
+* [JIDesignsArt](https://www.etsy.com/uk/shop/JIDesignsArt?ref=l2-about-shopname)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
