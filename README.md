@@ -62,10 +62,14 @@
   <img src="images/complete-system.png" alt="Complete-System">
   </h3>
 Introducing PoseMate, the revolutionary wearable fitness device made for bodybuilders. Preparing for a competition often means aiming for the perfect muscle pump and relying heavily on your coach's best guesses to peak at the right moment.
-But what if guessing wasn't part of the process? PoseMate changes the game.<br />
+But what if guessing wasn't part of the process? PoseMate changes the game.
+<br />
+<br />
 Developed by a group of second-year Robotics and Electronic Engineering students, PoseMate stands out in a crowded market. Unlike other fitness trackers, it goes beyond just collecting your workout data.<br />
+<br />
+<br />
 It provides you with real-time feedback as you exercise or pose, helping you understand exactly what works for your body. PoseMate is about making sure you hit your peak with confidence, offering insights that guide you to your best look. <br />
-Say goodbye to uncertainty and hello to your best physique with PoseMate.<br />
+Say goodbye to uncertainty and hello to your best physique with PoseMate.
 
 
 
