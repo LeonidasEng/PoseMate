@@ -124,7 +124,7 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 - [x] Inertial Measurement Unit
 - [x] Sensor Housing
 - [x] Sleeve Design
-- [x] Pivot or Persevere
+- [x] Pivot or Persevere?
 
 ### Sprint 3 MVP Manufacturing
 - [x] Sprint 3 Hypothesis
@@ -132,6 +132,7 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 - [x] Sleeve Design Development
 - [x] Custom Wiring
 - [x] Microcontroller Housing
+- [x] Pivot or Persevere?
 
 ### Sprint 4 Integration
 - [x] Sprint 4 Hypothesis
