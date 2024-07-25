@@ -146,7 +146,7 @@ Say goodbye to uncertainty and hello to your best physique with PoseMate.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Assignment Outcome
-[TBC]
+[94%] Leo Hayes
 
 ## Changelog
 You can find the changelog for this repo here: [Changelog](https://github.com/LeonidasEng/PoseMate/tree/main/CHANGELOG.md)
